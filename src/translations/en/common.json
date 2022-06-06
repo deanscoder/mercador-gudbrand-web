@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "home": "Home",
+    "createAccount": "Create account",
+    "download": "Download",
+    "news": "News",
+    "switch": "Change theme"
+  },
+  "user": {
+    "greetings": "Welcome!",
+    "oops_already": "Oops, unvailable",
+    "username_already": "Username already taken",
+    "phone_already": "This phone number already registered",
+    "email_already": "Email already registered"
+  },
+  "welcome": "Trust in your wear!",
+  "barContact": "Support",
+  "maintenance": "Dev Mode",
+  "search_placeholder": "Search for products",
+  "tags_you_follow": "Tags and Categories",
+  "buttons": {
+    "verLook": "See Sugestions",
+    "createNow": "See Collections"
+  }
+}

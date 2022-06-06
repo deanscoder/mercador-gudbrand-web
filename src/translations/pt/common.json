@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "home": "Página principal",
+    "createAccount": "Criar conta",
+    "download": "Baixe agora",
+    "news": "Novidades",
+    "switch": "Mudar tema"
+  },
+  "user": {
+    "greetings": "Seja bem vindo!",
+    "oops_already": "Ops, já cadastrado",
+    "username_already": "Nome de usuário já utilizado",
+    "phone_already": "Esse número telefônico já está em uso",
+    "email_already": "Esse email já está em uso"
+  },
+  "welcome": "Equipando você com o melhor!",
+  "barContact": "Suporte",
+  "maintenance": "Em Desenvolvimento",
+  "search_placeholder": "Pesquise por produtos",
+  "tags_you_follow": "Categorias e tags",
+  "buttons": {
+    "verLook": "Ver Sugestões",
+    "createNow": "Ver Coleções"
+  }
+}
